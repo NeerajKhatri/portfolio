@@ -1,0 +1,18 @@
+body{
+	background-color:#E8E2E2;
+	}
+hr {
+	border: none;
+	border-top: dotted;
+	border-color: #5D3891;
+	border-width: 5px;
+	width: 5%;	
+}
+h1, h3{
+	color:#F99417;
+	font-weight:bold;
+}
+
+.pro-pic{
+	border-radius: 100%;
+}
